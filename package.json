@@ -1,0 +1,11 @@
+{
+  "name": "entrega-3",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene scripts SQL y datos de ejemplo para configurar una base de datos de películas con MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
